@@ -1,4 +1,4 @@
-# Investigating Spell-Checking Usage in Data Pre-Processing Phase for Topic Modeling on TripAdvisor Hotel Reviews
+## Investigating Spell-Checking Usage in Data Pre-Processing Phase for Topic Modeling on TripAdvisor Hotel Reviews
 
 
 Online customer reviews are very insightful
